@@ -1,6 +1,3 @@
 from .bundlenet import BundleNet
-from .VAE import VAE
-from .wgan import WGAN_div
-from .cgan import CGAN
-from .cgan_nbhd import CGAN_nbhd
-from .cgan_triv import CGAN_triv
+#from .VAE import VAE
+from .benchmarking_models import WGAN_div, CGAN, CGAN_nbhd, CGAN_triv

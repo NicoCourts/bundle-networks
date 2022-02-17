@@ -2,7 +2,7 @@
 
 This repository consists of code that accompanies the paper
 
-> Nicolas Courts and Henry Kvinge. Bundle Networks: Fiber Bundles, Local Trivializations, and a
+> Nico Courts and Henry Kvinge. Bundle Networks: Fiber Bundles, Local Trivializations, and a
 > Generative Approach to Exploring Many-to-one Maps. In International Conference on Learning Representations, 2022 (to appear).
 
 A preprint of this work can be found [on arXiv](https://arxiv.org/pdf/2110.06983.pdf).
